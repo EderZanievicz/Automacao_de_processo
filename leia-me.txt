@@ -1,0 +1,1 @@
+Para rodar os projetos é preciso ter o Jupyter
